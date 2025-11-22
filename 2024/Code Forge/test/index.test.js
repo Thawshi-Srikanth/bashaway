@@ -10,7 +10,7 @@ test('should validate if only bash files are present', () => {
 test('should build the script into a runnable executable', async () => {
     await exec('bash execute.sh')
     const version = await exec('go version out/blade')
-    expect(version?.trim()).toBe('out/blade: go1.17.2')
+    expect(version?.trim()).toBe('out/blade: go1.25.4')
     const result = await exec('out/blade')
     expect(result?.trim()).toBe('Hello there... Welcome to Bashaway 2k24!')
 });
