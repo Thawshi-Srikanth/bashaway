@@ -1,1 +1,9 @@
 */**/qt.zip
+*/**/*.zip
+*/**/*.tar.gz
+*/**/*.tar.bz2
+*/**/*.tar.xz
+*/**/*.7z
+
+node_modules/
+*/**/node_modules/

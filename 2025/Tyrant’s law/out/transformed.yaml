@@ -1,0 +1,11 @@
+alpha:
+  bravo:
+    charlie: 2
+array:
+  - alpha: 2
+    zebra: 1
+  - bravo: 4
+    yankee: 3
+zulu:
+  yankee:
+    xray: 1
