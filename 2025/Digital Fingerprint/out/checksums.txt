@@ -1,0 +1,6 @@
+c69c55b8f6529d5a7ec1fbcf92c68beb subdir1/greens_0.txt
+c8c776cf5f481230e6a3a1d71bc8aece subdir1/deep/sniffle.txt
+8a0544316352b712218be24afe1551d9 subdir1/oil_1.txt
+46c4816dbf83303ed2430030ab7feb1d stallion_0.txt
+dbb401fb1943f7e168dffd988cc8af29 hat_2.txt
+dd5cb63db8410b51b44d5fc59dc87dd5 slot_1.txt
